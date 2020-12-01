@@ -26,7 +26,7 @@ printf "\e[1;49;92m
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
       \e[0m \n"                                                                          
 
-printf " \e[7;49;92m coded by https://github.com/nikhil3711 \e[0m \n"
+printf " \e[7;49;92m coded by https://github.com/NH-hackers \e[0m \n"
 printf "\n"
 printf "\e[7;49;91m REMEMBER THESE TRICKS ARE ONLY FOR FUN DONOT MISUSE THIS \e[0m\n"
 printf " \e[4;39;93m downloading.........\e[0m\n"
