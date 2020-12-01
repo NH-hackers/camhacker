@@ -4,7 +4,7 @@ cd
 
 pkg i git -y
 
-git clone https://github.com/nikhil3711/camhacker
+git clone https://github.com/NH-hackers/camhacker
 
 clear
 
