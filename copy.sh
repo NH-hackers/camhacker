@@ -1,6 +1,6 @@
 cd
 
-mv -r camhacker /sdcard
+mv camhacker /sdcard
 
 sleep2
 
