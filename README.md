@@ -1,5 +1,11 @@
 # camhacker
 
+pkg install php
+
+pkg install wget
+
+pkg install openssh
+
 cd
 
 pkg i git -y
